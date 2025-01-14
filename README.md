@@ -10,6 +10,10 @@
 
 - all recovery files and data for all clouds reside here
 
+## iCloud
+
+- All image files
+
 ## Google 
 
 ### boone.cabal.dev@gmail.com
@@ -24,7 +28,7 @@
 
 ### boone.cabal.dev@gmail.com
 
-- video files more than 250 MB
+- small video files of less than 250 MB
 
 ## MEGA
 
