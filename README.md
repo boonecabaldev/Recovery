@@ -10,18 +10,21 @@
 
 - all recovery files and data for all clouds reside here
 
---- 
+## Google 
 
-## PROTON DRIVE
+### boone.cabal.dev@gmail.com
 
-### dork.zeegler@proton.me
+- World of Warcraft media and books/comics
 
-Key - .ASC File
-https://github.com/boonecabaldev/Recovery/blob/main/protondrive_recovery-dork.asc
+### dork.zeegler@gmail.com
 
-- to be determined
+- GW2 Videos
 
---- 
+## Degoo
+
+### boone.cabal.dev@gmail.com
+
+- video files more than 250 MB
 
 ## MEGA
 
@@ -30,17 +33,14 @@ https://github.com/boonecabaldev/Recovery/blob/main/protondrive_recovery-dork.as
 Key
 s1jkxgwTFo-7M3_E7_aDug
 
-- currently contains another backup of most of the Warcraft images
-
+- GW2 Videos
 
 ### boone.cabal.dev@gmail.com
 
 Key
 1S3Jym4LxOlObPgl-o0PsQ
 
-- To be determined
-
----
+- Movies
 
 ## Clouds article
 https://pocket.co/share/9e096f8c-c10a-4b9a-b5e9-fb7bc08ae7d1?utm_source=pocket_saves
