@@ -274,7 +274,7 @@
   }
 }
 Simple Editable Sample for a Single Character
-The following is a sample template you can change to suit your needs. You can edit the text where REPLACE is defined. Also, you can change any of the attribute titles, see the story ‘Character Identity Attributes’ for a huge list.
+The following is a sample template you can change to suit your needs. You can edit the text where REPLACE is defined. Also, you can change any of the attribute titles, see the story Â‘Character Identity AttributesÂ’ for a huge list.
 
 {
   "{{char}}": "REPLACE",
